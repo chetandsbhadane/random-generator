@@ -1,3 +1,4 @@
+### My published site: https://www.npmjs.com/package/randomm-nummber-generatorr
 ## Step 1: Install npm package to use.
 ```console
 npm install randomm-nummber-generatorr
@@ -12,5 +13,7 @@ var min=0;
 var max=100;
 console.log(randomNumber(min,max);
 ```
-## Output: It will generator any random value within range 0 to 100
+## Output: 44 
+### It will generator any random value within range 0 to 100 (Use it as your requirements)
+
 # Happy Coding :blush:
