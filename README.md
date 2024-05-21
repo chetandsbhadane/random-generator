@@ -1,4 +1,4 @@
-### My published site: https://www.npmjs.com/package/randomm-nummber-generatorr
+### Published on: https://www.npmjs.com/package/randomm-nummber-generatorr
 ## Step 1: Install npm package to use.
 ```console
 npm install randomm-nummber-generatorr
